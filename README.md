@@ -6,7 +6,7 @@ Convert YouTube videos into audio from your computer to your mobile device. Usin
 At first, it is necessary install the main libraries bellow:
 
 * [Pytube](https://github.com/nficano/pytube#installation)
-* [FFmeg](https://ffmpeg.org/) - It is required for use Pydub
+* [FFmeg](https://ffmpeg.org/download.html) - It is required for use Pydub
 * [Pydub](https://github.com/jiaaro/pydub#installation)
 
 ## Inspiration
