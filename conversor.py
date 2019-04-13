@@ -35,7 +35,7 @@ def main():
 	print("Downloading...")
 	aux[0].download(final_path)
 
-	print("Converting the video to mp3 format...")
+	print("Converting the video to mp3 form...")
 	os.chdir(final_path)
 	extension = ('./*.mp4')
 
