@@ -10,4 +10,4 @@ At first, it is necessary install the main libraries bellow:
 * [Pydub](https://github.com/jiaaro/pydub#installation)
 
 ## Inspiration
-Using this simple conversor in my computer I can download my favorite songs without change tabs on the phone, if you use some web conversor. Also, you do not need to close publication tabs that just appear and prevent you from clicking on the right place to execute the download... You just acess your folder that is on your computer and done!  
+Using this simple conversor you can download your favorite songs without change tabs, if you use some web conversor by browser in a smartphone. Also, you don't need to close publication tabs that just appear and prevent you from clicking on the right place to execute the download... You just acess your folder that is on your computer and done!  
